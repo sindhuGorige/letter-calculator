@@ -1,0 +1,16 @@
+/* Write your code here. */
+.background {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.result {
+  background-color: white;
+  color: #1d976c;
+}
+.input {
+  height: 30px;
+}
